@@ -5,4 +5,5 @@ export default defineConfig({
   projectRoot: "./",
   publicPath: "/",
   dist: "../",
+  site: "https://alejandrosanchezmonzon.github.io",
 });
