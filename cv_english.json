@@ -122,56 +122,105 @@
       "summary": ""
     }
   ],
-  "skills": [
+  "habilidades": [
     {
-      "name": "HTML",
+      "nombre": "HTML",
       "level": "",
-      "keywords": ["web development", "frontend"]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": ["Software Development", "Backend"]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "Angular",
       "level": "",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": ["Databases", "Backend"]
-    },
-    {
-      "name": "Python",
-      "level": "",
-      "keywords": ["data-analysis", "data scientist", "Data engineer"]
-    },
-    {
-      "name": "TypeScript",
-      "level": "",
-      "keywords": ["web development", "frontend"]
-    },
-    {
-      "name": "Spring Boot",
-      "level": "",
-      "keywords": ["API Rest Development", "Backend"]
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": ["Version Control"]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "Tailwind",
       "level": "",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": [
+        "Análisis de datos",
+        "Científico de datos",
+        "Ingeniero de datos"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Kotlin",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
+    },
+    {
+      "name": "Flutter",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Frontend"]
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": ["Bases de datos", "Backend"]
+    },
+    {
+      "name": "Hibernate",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
+    },
+    {
+      "name": "JPA",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "",
+      "keywords": ["Desarrollo de API Rest", "Backend"]
+    },
+    {
+      "name": "Ktor",
+      "level": "",
+      "keywords": ["Desarrollo de API Rest", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": ["Control de versiones"]
+    },
+    {
+      "name": "Amazon Web Services",
+      "level": "",
+      "keywords": ["Nube"]
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": ["Backend"]
+    },
+    {
+      "name": "JUnit",
+      "level": "",
+      "keywords": ["Testing", "Backend"]
+    },
+    {
+      "name": "Mockito",
+      "level": "",
+      "keywords": ["Testing", "Backend"]
     }
   ],
   "languages": [

@@ -134,19 +134,19 @@
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
-      "name": "Java",
-      "level": "",
-      "keywords": ["Desarrollo de Software", "Backend"]
-    },
-    {
       "name": "Angular",
       "level": "",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
-      "name": "SQL",
+      "name": "Tailwind",
       "level": "",
-      "keywords": ["Bases de datos", "Backend"]
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
     },
     {
       "name": "Python",
@@ -163,7 +163,37 @@
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
+      "name": "Kotlin",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
+    },
+    {
+      "name": "Flutter",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Frontend"]
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": ["Bases de datos", "Backend"]
+    },
+    {
+      "name": "Hibernate",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
+    },
+    {
+      "name": "JPA",
+      "level": "",
+      "keywords": ["Desarrollo de Software", "Backend"]
+    },
+    {
       "name": "Spring Boot",
+      "level": "",
+      "keywords": ["Desarrollo de API Rest", "Backend"]
+    },
+    {
+      "name": "Ktor",
       "level": "",
       "keywords": ["Desarrollo de API Rest", "Backend"]
     },
@@ -173,9 +203,24 @@
       "keywords": ["Control de versiones"]
     },
     {
-      "name": "Tailwind",
+      "name": "Amazon Web Services",
       "level": "",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": ["Cloud"]
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": ["Backend"]
+    },
+    {
+      "name": "JUnit",
+      "level": "",
+      "keywords": ["Testing", "Backend"]
+    },
+    {
+      "name": "Mockito",
+      "level": "",
+      "keywords": ["Testing", "Backend"]
     }
   ],
   "languages": [
