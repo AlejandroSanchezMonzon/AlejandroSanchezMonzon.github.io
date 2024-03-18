@@ -1,0 +1,248 @@
+{
+  "basics": {
+    "name": "Alejandro Sanchez Monzon",
+    "label": "Software Developer | AHK Big Data Student | AWS Cloud Practitioner | Certified Kotlin Developer",
+    "image": "/me.webp",
+    "email": "alejandrosanchezmonzon1@gmail.com",
+    "phone": "",
+    "url": "https://alejandrosanchezmonzon.github.io/",
+    "summary": "Passionate about new technologies, data analysis, machine learning and software development. Always looking for new challenges and challenges.",
+    "location": {
+      "address": "",
+      "postalCode": "28300",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexandrosm",
+        "url": "https://linkedin.com/in/alejandrosm/"
+      },
+      {
+        "network": "GitHub",
+        "username": "AlejandroSanchezMonzon",
+        "url": "https://github.com/AlejandroSanchezMonzon/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Hogrefe TEA Ediciones & PsyCommunity",
+      "position": "Software Developer Trainee",
+      "url": "https://web.teaediciones.com/",
+      "startDate": "2023-03-21",
+      "endDate": null,
+      "summary": "Front-end development of the company's public website and PsyCommunity website (attached company). Use of Angular as a web framework to make calls to a Rest API based on .NET. Use of Git for version control.",
+      "highlights": [
+        "Angular",
+        "API Rest",
+        "Git",
+        "JavaScript & TypeScript",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Colegio Sagrada Familia de Aranjuez FESD",
+      "position": "Youth Ministry Volunteer",
+      "url": "https://aranjuez.fesd.es/",
+      "startDate": "2018-09-01",
+      "endDate": null,
+      "summary": "Accompanying boys and girls from 8 to 16 years old. Possessing by competence the planning and delivery of weekly sessions, which have as a principle the social and religious development.",
+      "highlights": ["Volunteering", "Teamwork"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Colegio Sagrada Familia de Aranjuez FESD",
+      "position": "Youth Ministry Volunteer",
+      "url": "https://aranjuez.fesd.es/",
+      "startDate": "2018-09-01",
+      "endDate": null,
+      "summary": "Accompanying boys and girls from 8 to 16 years old. Possessing by competence the planning and delivery of weekly sessions, which have as a principle the social and religious development.",
+      "highlights": ["Volunteering", "Teamwork"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "German Chamber of Commerce for Spain",
+      "url": "https://www.ahk.es/es/",
+      "area": "German VET Master's Degree in Data and Process Analysis",
+      "studyType": "Master of Vocational Education and Training",
+      "startDate": "2023-09-04",
+      "endDate": "2024-05-31",
+      "score": "",
+      "courses": ["AWS Cloud Practitioner"]
+    },
+    {
+      "institution": "IES Luis Vives",
+      "url": "https://www.iesluisvives.es/",
+      "area": "Técnico Superior en Desarrollo de Aplicaciones Multiplataforma",
+      "studyType": "Ciclo Formativo de Grado Superior",
+      "startDate": "2021-09-08",
+      "endDate": "2023-06-21",
+      "score": "APTO",
+      "courses": ["Certified Kotlin Backend Developer By JetBrains"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Innovation and Entrepreneurship Workshop «HUB SOCIAL ARANJUEZ»",
+      "date": "2018-06-01",
+      "awarder": "REPSOL Foundation",
+      "summary": "During this workshop of a couple of months duration, we were trained on the techniques of innovation and entrepreneurship in companies, the necessary social skills, and the commonly used tools. At the end of this learning period, we were given the possibility, together with a tutor (Eduardo Castro) the creation of a project following the tools worked on (Design Thinking, BMC and Lean Startup and Proposal Selling) for its prosperous development."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Cloud Practitioner",
+      "date": "2024-02-01",
+      "issuer": "Amazon Web Services",
+      "url": "https://www.credly.com/badges/8b5303a8-b7da-4a9a-9a73-d2490bd0f16b/linked_in_profile"
+    },
+    {
+      "name": "Certified Kotlin Backend Developer",
+      "date": "2023-06-01",
+      "issuer": "JetBrains",
+      "url": "https://github.com/AlejandroSanchezMonzon/certificates/blob/main/backend/kotlin_developer.pdf"
+    },
+    {
+      "name": "B2 First",
+      "date": "2019-06-01",
+      "issuer": "Cambridge University Press & Assessment English"
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": ["web development", "frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": ["Software Development", "Backend"]
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": ["Databases", "Backend"]
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": ["data-analysis", "data scientist", "Data engineer"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": ["web development", "frontend"]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "",
+      "keywords": ["API Rest Development", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": ["Version Control"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "",
+      "keywords": ["Web Development", "Frontend"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional competence"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": ["", ""]
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "reference": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "TFC: Application for the Management of Common School Center Spaces",
+      "isActive": false,
+      "description": "In response to the needs expressed by IES Luis Vives and to improve their experience with the organization of common spaces, our group considered it useful to develop a digital resource to facilitate their management.",
+      "highlights": [
+        "API Rest",
+        "docker",
+        "Flutter",
+        "Git",
+        "JUnit",
+        "Kotlin",
+        "Ktor",
+        "Microservices",
+        "Mockito",
+        "Mongo DB",
+        "Spring Boot"
+      ],
+      "url": "https://www.linkedin.com/in/alejandrosm/details/projects/844258084/multiple-media-viewer/?profileId=ACoAADhqQhMBpBL5kCKpCv_ik-VJmSPZ6QfE7yM&treasuryMediaId=1635532550162",
+      "github": "https://github.com/AlejandroSanchezMonzon/tfg-gestion-espacios"
+    },
+    {
+      "name": "Gestión Datos Abiertos: Residuos de Madrid 2021 - Análisis de datos",
+      "isActive": false,
+      "description": "Analysis, management and manipulation of data (data filtering and export/import in different file formats) in relation to container and waste collection in all districts of Madrid, following ETL techniques of data analysis for subsequent visualization.",
+      "highlights": ["ETL", "Data Analysis", "CSS", "Git", "HTML", "Kotlin"],
+      "url": "https://github.com/AlejandroSanchezMonzon/AD-P01-Residuos",
+      "github": "https://github.com/AlejandroSanchezMonzon/AD-P01-Residuos"
+    },
+    {
+      "name": "McDAM - CRUD with GUI.",
+      "isActive": false,
+      "description": "Program that simulates the operation of «McDonald's» self-service machines, which allow you to order a list of products to be paid for, following several different methods.",
+      "highlights": [
+        "CSS",
+        "Git",
+        "HTML",
+        "Java",
+        "JDBC",
+        "JUnit",
+        "Mockito",
+        "MySQL",
+        "Scrum",
+        "UML"
+      ],
+      "url": "https://github.com/AlejandroSanchezMonzon/ProyectoFinal-1DAM-McDAM",
+      "github": "https://github.com/AlejandroSanchezMonzon/ProyectoFinal-1DAM-McDAM"
+    }
+  ]
+}
