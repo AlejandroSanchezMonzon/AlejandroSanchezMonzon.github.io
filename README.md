@@ -1,7 +1,9 @@
 # _Portfolio_ personal minimalista maquetado para web y pdf
 
-<img src="/dist/me.webp" height="90px" width="auto" />
+> Esquema del JSON de CV de [jsonresume.org](https://jsonresume.org/schema/).
+>
+> Basado en el diseño de [Bartosz Jarocki](https://github.com/BartoszJarocki/cv).
+>
+> Desarrollo basado en el repositorio de [@midudev](https://github.com/midudev).
 
-<p>Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a></p>
-
-<p>Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a></p>
+![alt text](web_review.png)
