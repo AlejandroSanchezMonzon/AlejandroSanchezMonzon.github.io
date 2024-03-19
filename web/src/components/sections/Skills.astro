@@ -1,53 +1,66 @@
 ---
-import Section from "../Section.astro"
-import HTML from "@/icons/html.astro"
-import CSS from "@/icons/css.astro"
-import JavaScript from "@/icons/javascript.astro"
-import TypeScript from "@/icons/type.astro"
-import React from "@/icons/react.astro"
-import Node from "@/icons/node.astro"
-import MySQL from "@/icons/sql.astro"
-import Git from "@/icons/git.astro"
-import GitHub from "@/icons/GitHub.astro"
-import Tailwind from "@/icons/tailwind.astro"
-import Next from "@/icons/next.astro"
-import { skills } from "@cv"
-import Swift from "@/icons/swift.astro"
-import SwiftUI from "@/icons/swiftui.astro"
-import Kotlin from "@/icons/kotlin.astro"
-import Flutter from "@/icons/flutter.astro"
+import { skills } from "@cv";
+import Amazon from "@/icons/skills/amazon.astro";
+import Angular from "@/icons/skills/angular.astro";
+import CSS from "@/icons/skills/css.astro";
+import Docker from "@/icons/skills/docker.astro";
+import Flutter from "@/icons/skills/flutter.astro";
+import Git from "@/icons/skills/git.astro";
+import Hibernate from "@/icons/skills/hibernate.astro";
+import HTML from "@/icons/skills/html.astro";
+import Java from "@/icons/skills/java.astro";
+import JPA from "@/icons/skills/jpa.astro";
+import JUnit from "@/icons/skills/junit.astro";
+import Kotlin from "@/icons/skills/kotlin.astro";
+import Ktor from "@/icons/skills/ktor.astro";
+import Mockito from "@/icons/skills/mockito.astro";
+import SQL from "@/icons/skills/sql.astro";
+import Python from "@/icons/skills/python.astro";
+import Section from "../Section.astro";
+import SpringBoot from "@/icons/skills/spring.astro";
+import Tailwind from "@/icons/skills/tailwind.astro";
+import TypeScript from "@/icons/skills/typescript.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
-  HTML,
+  Amazon,
+  Angular,
   CSS,
-  JavaScript,
-  TypeScript,
-  React,
-  Node,
-  MySQL,
-  Git,
-  GitHub,
-  Next,
-  Tailwind,
-  Swift,
-  SwiftUI,
-  Kotlin,
+  Docker,
   Flutter,
-}
+  Git,
+  Hibernate,
+  HTML,
+  Java,
+  JPA,
+  JUnit,
+  Kotlin,
+  Ktor,
+  Mockito,
+  SQL,
+  Python,
+  SpringBoot,
+  Tailwind,
+  TypeScript,
+};
 ---
 
 <Section title="Habilidades">
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
-        const Icon = SKILLS_ICONS[iconName]
+        const iconName =
+          name === "Spring Boot"
+            ? "SpringBoot"
+            : name === "Amazon Web Services"
+              ? "Amazon"
+              : name;
+        const Icon = SKILLS_ICONS[iconName];
 
         return (
           <li>
             {Icon && <Icon />} <span>{name}</span>
           </li>
-        )
+        );
       })
     }
   </ul>
